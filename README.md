@@ -12,6 +12,8 @@ to login use these credentials
 username : yashvardhan@email.com
 password : yashvardhan
 
+pricingConfigId : 64cde8abea8cb4246622ec7b
+
 
 make sure you have backend running, gien at https://github.com/yashvardhan-verma/fyn_pricing_module
 
