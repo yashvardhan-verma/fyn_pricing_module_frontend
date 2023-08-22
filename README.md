@@ -1,22 +1,15 @@
-# next-template
+# FYN pricing module frontend
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-
-## Usage
+### to insttall all dependency and run the frontend
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npm i
+npm run dev
 ```
+make sure you have backend running, gien at https://github.com/yashvardhan-verma/fyn_pricing_module
 
-## Features
 
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
-
-## License
-
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+### Screenshots
+![Login](login.png "Login")
+![calculate-1](calculate-1.png "calculate-1")
+![calculate-2](calculate-2.png "calculate-2")
