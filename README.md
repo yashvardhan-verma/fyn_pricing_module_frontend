@@ -6,6 +6,13 @@
 npm i
 npm run dev
 ```
+
+to login use these credentials
+
+username : yashvardhan@email.com
+password : yashvardhan
+
+
 make sure you have backend running, gien at https://github.com/yashvardhan-verma/fyn_pricing_module
 
 

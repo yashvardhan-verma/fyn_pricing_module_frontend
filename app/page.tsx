@@ -133,7 +133,7 @@ const CalculatePricing = () => {
         <form className="mt-6">
           <div className="mb-4">
             <Label htmlFor="pricingConfigId">Pricing Config ID</Label>
-            <Input type="text" placeholder="64cde8abea8cb4246622ec7b" onChange={(event) => {
+            <Input type="text" placeholder="64cde8abea8cb4246622ec7b" value="64cde8abea8cb4246622ec7b" onChange={(event) => {
               setpricingConfigId(event.target.value);
             }} />
           </div>
